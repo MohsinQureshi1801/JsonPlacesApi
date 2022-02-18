@@ -3,27 +3,37 @@
     {
       "id": "0",
       "image": "https://s2.best-wallpaper.net/wallpaper/iphone/1805/Pakistan-Biafo-glacier-winter-snow-mountains_iphone_640x1136.jpg",
-      "name": "Biafo Glacier"
+      "name": "Biafo Glacier",
+      "price": "5000",
+      "location": "PAK, KPK"
     },
     {
       "id": "1",
       "image": "https://images.unsplash.com/photo-1533912295802-535da631e9d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHw%3D&w=1000&q=80",
-      "name": "Aerial Mountains"
+      "name": "Aerial Mountains",
+      "price": "5500",
+      "location": "PAK, KPK"
     },
     {
       "id": "2",
       "image": "https://wallpaperaccess.com/full/256457.jpg",
-      "name": "K2 Mountain"
+      "name": "K2 Mountain",
+      "price": "7500",
+      "location": "PAK, KPK"
     },
     {
       "id": "3",
       "image": "https://images.unsplash.com/photo-1506682834362-399453953e62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxjb2xsZWN0aW9uLXRodW1ibmFpbHx8NDUzMTIyNnx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=420&q=60",
-      "name": "Moraine Lake National Park"
+      "name": "Moraine Lake National Park",
+      "price": "8000",
+      "location": "PAK, KPK"
     },
     {
       "id": "4",
       "image": "https://i.pinimg.com/originals/41/1e/eb/411eeb72b36017e4fb9226779f339231.jpg",
-      "name": "Forest"
+      "name": "Forest",
+      "price": "8500",
+      "location": "PAK, KPK"
     }
   ]
 }
